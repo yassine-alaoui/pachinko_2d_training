@@ -110,3 +110,7 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 /*/[Aa]ssets/[Ss]treamingAssets/aa.meta
 /*/[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Unity3D generated builds
+/[Bb]uild/
+/WebGL Builds/
